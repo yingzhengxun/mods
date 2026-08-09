@@ -1,0 +1,271 @@
+{
+  "version": 1,
+  "mods": [
+    {
+      "name": "1.20.1-fabric+mlr-1.0.3",
+      "fileName": "1.20.1-fabric+mlr-1.0.3.jar",
+      "url": "https://yingruochu.github.io/mods/files/1.20.1-fabric+mlr-1.0.3.jar",
+      "sha256": "57a2b8584afba0e9a2aabeeeeab12dc12b13571eb7b69049404fbeada01ade6a",
+      "size": 1463724
+    },
+    {
+      "name": "architectury-9.2.14-fabric",
+      "fileName": "architectury-9.2.14-fabric.jar",
+      "url": "https://yingruochu.github.io/mods/files/architectury-9.2.14-fabric.jar",
+      "sha256": "bd7a7032bedb2ff96c6991a846a44c857336a51442a105f5859017e8ba9d1321",
+      "size": 585207
+    },
+    {
+      "name": "Axiom-5.4.2-for-MC1.20.1",
+      "fileName": "Axiom-5.4.2-for-MC1.20.1.jar",
+      "url": "https://yingruochu.github.io/mods/files/Axiom-5.4.2-for-MC1.20.1.jar",
+      "sha256": "e54ca8ea6e74c0ba2840199b1b12eff2ad564d74c1239f155dcfec74e61792e9",
+      "size": 47030180
+    },
+    {
+      "name": "brrp-fabric-1.0.1-1.20.1",
+      "fileName": "brrp-fabric-1.0.1-1.20.1.jar",
+      "url": "https://yingruochu.github.io/mods/files/brrp-fabric-1.0.1-1.20.1.jar",
+      "sha256": "25082105db6ce1564ef9b1f24bf8da9eb49e8501b31e024ff0ac876574c1045b",
+      "size": 194245
+    },
+    {
+      "name": "cloth-config-11.1.136-fabric",
+      "fileName": "cloth-config-11.1.136-fabric.jar",
+      "url": "https://yingruochu.github.io/mods/files/cloth-config-11.1.136-fabric.jar",
+      "sha256": "844f49c339c8f3144e167ab21b7d0059f0d571054e26285a0749348da25c49fa",
+      "size": 1172214
+    },
+    {
+      "name": "Crab street light 1.20.1_Fabric-1.1.7",
+      "fileName": "Crab street light 1.20.1_Fabric-1.1.7.jar",
+      "url": "https://yingruochu.github.io/mods/files/Crab street light 1.20.1_Fabric-1.1.7.jar",
+      "sha256": "ff445b5ae9e995f9c84fa0e6eb93e0c026b87410a25e0eb0eb43ec3a4a36ab7b",
+      "size": 562914
+    },
+    {
+      "name": "crab-city-facilities-1.0.7 1.20-1.20.4",
+      "fileName": "crab-city-facilities-1.0.7 1.20-1.20.4.jar",
+      "url": "https://yingruochu.github.io/mods/files/crab-city-facilities-1.0.7 1.20-1.20.4.jar",
+      "sha256": "891d72743741e624ebb51d2ecac8d4c86192e43da2b0a174f6b44873946c8d75",
+      "size": 11847709
+    },
+    {
+      "name": "effortless-1.20.1-3.4.0",
+      "fileName": "effortless-1.20.1-3.4.0.jar",
+      "url": "https://yingruochu.github.io/mods/files/effortless-1.20.1-3.4.0.jar",
+      "sha256": "24cbbffe480eb65126af382e1e09d79fdf51862f7f71e27dcdc5e1ac68fd194c",
+      "size": 1906064
+    },
+    {
+      "name": "extshape-fabric-3.1.0-mc1.20.1",
+      "fileName": "extshape-fabric-3.1.0-mc1.20.1.jar",
+      "url": "https://yingruochu.github.io/mods/files/extshape-fabric-3.1.0-mc1.20.1.jar",
+      "sha256": "f91a64c46d6caa3ad18826f11de3576fe2fffa8a0dff813c5bc8dcdff5370277",
+      "size": 8237683
+    },
+    {
+      "name": "fabric-api-0.92.11+1.20.1",
+      "fileName": "fabric-api-0.92.11+1.20.1.jar",
+      "url": "https://yingruochu.github.io/mods/files/fabric-api-0.92.11+1.20.1.jar",
+      "sha256": "3278787c04ad636525b5c3400dff8302420f79279f6d51ce3edc0149060d12eb",
+      "size": 2137144
+    },
+    {
+      "name": "fabric-language-kotlin-1.13.13+kotlin.2.4.10",
+      "fileName": "fabric-language-kotlin-1.13.13+kotlin.2.4.10.jar",
+      "url": "https://yingruochu.github.io/mods/files/fabric-language-kotlin-1.13.13+kotlin.2.4.10.jar",
+      "sha256": "34ccdacf13bb9351fe43ce61912c2e09b72364e43e787d36ba3d2d04dec75a52",
+      "size": 8076363
+    },
+    {
+      "name": "ferritecore-6.0.1-fabric",
+      "fileName": "ferritecore-6.0.1-fabric.jar",
+      "url": "https://yingruochu.github.io/mods/files/ferritecore-6.0.1-fabric.jar",
+      "sha256": "c7ba1118a05b2da900d1c369fbe1017a3e3ec3cafe5e51398b851279b9becf24",
+      "size": 125197
+    },
+    {
+      "name": "ForgeConfigAPIPort-v8.0.3-1.20.1-Fabric",
+      "fileName": "ForgeConfigAPIPort-v8.0.3-1.20.1-Fabric.jar",
+      "url": "https://yingruochu.github.io/mods/files/ForgeConfigAPIPort-v8.0.3-1.20.1-Fabric.jar",
+      "sha256": "337a8f6c5ba48ef3b3da828f4f6a75d0552ba33f48ce97d3195befdb570e427a",
+      "size": 396628
+    },
+    {
+      "name": "gd656killicon-1.0.0RC5-1.20.1-fabric",
+      "fileName": "gd656killicon-1.0.0RC5-1.20.1-fabric.jar",
+      "url": "https://yingruochu.github.io/mods/files/gd656killicon-1.0.0RC5-1.20.1-fabric.jar",
+      "sha256": "c246b56cd5f59331d129daf7f03e836b19e6fd6665a7d436e79324a83655630b",
+      "size": 5193831
+    },
+    {
+      "name": "immersive_aircraft-1.4.1+1.20.1-fabric",
+      "fileName": "immersive_aircraft-1.4.1+1.20.1-fabric.jar",
+      "url": "https://yingruochu.github.io/mods/files/immersive_aircraft-1.4.1+1.20.1-fabric.jar",
+      "sha256": "b7b3ae48413ef33e1534c298e5fe8d4ff10e4aa5a23a4c7491ce033aed9a6d1d",
+      "size": 2424850
+    },
+    {
+      "name": "immersive_paintings-0.6.13+1.20.1-fabric",
+      "fileName": "immersive_paintings-0.6.13+1.20.1-fabric.jar",
+      "url": "https://yingruochu.github.io/mods/files/immersive_paintings-0.6.13+1.20.1-fabric.jar",
+      "sha256": "ecd7ef5e513e8f6b74bb3ed045f235deef83c1e469bf34d73885662c91511434",
+      "size": 4854362
+    },
+    {
+      "name": "JCM-fabric-2.2.3+1.20.1",
+      "fileName": "JCM-fabric-2.2.3+1.20.1.jar",
+      "url": "https://yingruochu.github.io/mods/files/JCM-fabric-2.2.3+1.20.1.jar",
+      "sha256": "6b79c0ceaecf8200da073af6da305aa95cb9294018b02b26ce153bf741ea9955",
+      "size": 24844231
+    },
+    {
+      "name": "lithium-fabric-mc1.20.1-0.11.4",
+      "fileName": "lithium-fabric-mc1.20.1-0.11.4.jar",
+      "url": "https://yingruochu.github.io/mods/files/lithium-fabric-mc1.20.1-0.11.4.jar",
+      "sha256": "76133efe92aea907cf75562d9e26517deb170e2580e1ecd4979da2c8902de782",
+      "size": 691483
+    },
+    {
+      "name": "memoryleakfix-fabric-1.17+-1.1.5",
+      "fileName": "memoryleakfix-fabric-1.17+-1.1.5.jar",
+      "url": "https://yingruochu.github.io/mods/files/memoryleakfix-fabric-1.17+-1.1.5.jar",
+      "sha256": "b8ac33d7262e019710dd25e454116616bc9ed1f714ed910594b28a4c1da5adde",
+      "size": 49334
+    },
+    {
+      "name": "Metropolis-0.6.0-beta+fabric-1.20.1_20260718",
+      "fileName": "Metropolis-0.6.0-beta+fabric-1.20.1_20260718.jar",
+      "url": "https://yingruochu.github.io/mods/files/Metropolis-0.6.0-beta+fabric-1.20.1_20260718.jar",
+      "sha256": "d237ec17bffdea6c2abc5168427f98fc26fa8580961859f8348d268167d24a0b",
+      "size": 1521120
+    },
+    {
+      "name": "mishanguc-1.6.1-1.20.1",
+      "fileName": "mishanguc-1.6.1-1.20.1.jar",
+      "url": "https://yingruochu.github.io/mods/files/mishanguc-1.6.1-1.20.1.jar",
+      "sha256": "a4ffc686a776e517af8db24bc78e7ce977c608ab6e87fe1409b0c22af6093dda",
+      "size": 6235460
+    },
+    {
+      "name": "modernfix-fabric-5.25.2+mc1.20.1",
+      "fileName": "modernfix-fabric-5.25.2+mc1.20.1.jar",
+      "url": "https://yingruochu.github.io/mods/files/modernfix-fabric-5.25.2+mc1.20.1.jar",
+      "sha256": "5c1f852046e62a17056bb6b571164e61644076c5eb9029c92b31e337cc62c0d9",
+      "size": 545175
+    },
+    {
+      "name": "MSD-fabric-1.20.1-4.0.5-1.4.5",
+      "fileName": "MSD-fabric-1.20.1-4.0.5-1.4.5.jar",
+      "url": "https://yingruochu.github.io/mods/files/MSD-fabric-1.20.1-4.0.5-1.4.5.jar",
+      "sha256": "70b6c175d1bfb8f72a3ab75beb8789556e76f97eaa4b3793b496bb2762394bf5",
+      "size": 7996892
+    },
+    {
+      "name": "MTR-fabric-4.0.5+1.20.1",
+      "fileName": "MTR-fabric-4.0.5+1.20.1.jar",
+      "url": "https://yingruochu.github.io/mods/files/MTR-fabric-4.0.5+1.20.1.jar",
+      "sha256": "68309633128fc5a70aff5cd467496ad64ec7d60dadfcdb1221f059cffed630c3",
+      "size": 84780475
+    },
+    {
+      "name": "notenoughanimations-fabric-1.12.4-mc1.20.1",
+      "fileName": "notenoughanimations-fabric-1.12.4-mc1.20.1.jar",
+      "url": "https://yingruochu.github.io/mods/files/notenoughanimations-fabric-1.12.4-mc1.20.1.jar",
+      "sha256": "3eadee3d7fa85455be61e73ea894f2defbfeafc0b28fc9b0657a976bbdf30fde",
+      "size": 1944718
+    },
+    {
+      "name": "ocelotsignmod-1.0.0-beta.1-1.20.1-Fabric",
+      "fileName": "ocelotsignmod-1.0.0-beta.1-1.20.1-Fabric.jar",
+      "url": "https://yingruochu.github.io/mods/files/ocelotsignmod-1.0.0-beta.1-1.20.1-Fabric.jar",
+      "sha256": "0251684736719e9591286be95bc69b0f4eb952e63aaf74b6d904f7737443b428",
+      "size": 55484624
+    },
+    {
+      "name": "PLUC Beta10",
+      "fileName": "PLUC Beta10.jar",
+      "url": "https://yingruochu.github.io/mods/files/PLUC Beta10.jar",
+      "sha256": "362a2b0c48b7770561bd1f70cb6da24909d934cf5d2ff51a2c41839963a100f5",
+      "size": 567749
+    },
+    {
+      "name": "RoadChina-1.0.2",
+      "fileName": "RoadChina-1.0.2.jar",
+      "url": "https://yingruochu.github.io/mods/files/RoadChina-1.0.2.jar",
+      "sha256": "833d31d1f9de8e765857fa21bed08f27af6e0ce3f98c0757e389f96238376dda",
+      "size": 1101643
+    },
+    {
+      "name": "skinlayers3d-fabric-1.11.2-mc1.20.1",
+      "fileName": "skinlayers3d-fabric-1.11.2-mc1.20.1.jar",
+      "url": "https://yingruochu.github.io/mods/files/skinlayers3d-fabric-1.11.2-mc1.20.1.jar",
+      "sha256": "9f76e7018eca0a20bb6c4f269d7192e14beba375f7fb9064425804d6fbdaab96",
+      "size": 1988537
+    },
+    {
+      "name": "starlight-1.1.2+fabric.dbc156f",
+      "fileName": "starlight-1.1.2+fabric.dbc156f.jar",
+      "url": "https://yingruochu.github.io/mods/files/starlight-1.1.2+fabric.dbc156f.jar",
+      "sha256": "2b4bb0256279b9edeec050ea02751119e4a7c6933a2b0d2905a72c56b14882d8",
+      "size": 127368
+    },
+    {
+      "name": "worldedit-mod-7.2.15",
+      "fileName": "worldedit-mod-7.2.15.jar",
+      "url": "https://yingruochu.github.io/mods/files/worldedit-mod-7.2.15.jar",
+      "sha256": "17db6b3e94f52d25426684663e1e1846823cbb7907f1c365ac329e5bc7bfaf2c",
+      "size": 5825402
+    },
+    {
+      "name": "xaerominimap-fabric-1.20.1-26.4.2",
+      "fileName": "xaerominimap-fabric-1.20.1-26.4.2.jar",
+      "url": "https://yingruochu.github.io/mods/files/xaerominimap-fabric-1.20.1-26.4.2.jar",
+      "sha256": "a0b73b92d45e95e6031a4a002c6edd6c67b98a56a576066603679d6a98042b65",
+      "size": 2228035
+    },
+    {
+      "name": "xaeroworldmap-fabric-1.20.1-1.44.2",
+      "fileName": "xaeroworldmap-fabric-1.20.1-1.44.2.jar",
+      "url": "https://yingruochu.github.io/mods/files/xaeroworldmap-fabric-1.20.1-1.44.2.jar",
+      "sha256": "281a435d39500c50854fbf0999f84b081288e194ec75aa4cdf8772cfb5f8ccec",
+      "size": 1443854
+    },
+    {
+      "name": "yet_another_config_lib_v3-3.6.6+1.20.1-fabric",
+      "fileName": "yet_another_config_lib_v3-3.6.6+1.20.1-fabric.jar",
+      "url": "https://yingruochu.github.io/mods/files/yet_another_config_lib_v3-3.6.6+1.20.1-fabric.jar",
+      "sha256": "7a2389ca436ea8f7abee787d6373f9526deece5d06785f3623b7fe89bd9b31ac",
+      "size": 1294234
+    },
+    {
+      "name": "yrc-login-1.2.3",
+      "fileName": "yrc-login-1.2.3.jar",
+      "url": "https://yingruochu.github.io/mods/files/yrc-login-1.2.3.jar",
+      "sha256": "588c322802276457a7e70dc25b10fef1db3c0ca0c7086dc5bcd74c95a95f95b8",
+      "size": 37933
+    },
+    {
+      "name": "yunbeiuc-fabric-1.0.0-26w32a-hotfix",
+      "fileName": "yunbeiuc-fabric-1.0.0-26w32a-hotfix.jar",
+      "url": "https://yingruochu.github.io/mods/files/yunbeiuc-fabric-1.0.0-26w32a-hotfix.jar",
+      "sha256": "67a669ea79ab14a7dbddbc554aa6c9bc04fcaf943c7528720c57ad8c704bc389",
+      "size": 13547182
+    },
+    {
+      "name": "yuushya-1.20.1-fabric-2.3.0",
+      "fileName": "yuushya-1.20.1-fabric-2.3.0.jar",
+      "url": "https://yingruochu.github.io/mods/files/yuushya-1.20.1-fabric-2.3.0.jar",
+      "sha256": "ab1c39d0763d8209aaf5bd6cc193724439dc3ad0738ffcb82af32042981f6518",
+      "size": 28161213
+    },
+    {
+      "name": "斜向站台模组 半成品",
+      "fileName": "斜向站台模组 半成品.jar",
+      "url": "https://yingruochu.github.io/mods/files/斜向站台模组 半成品.jar",
+      "sha256": "0f91e7e4562f2b3d42ff0cdca63fa37cd70ab71d7856bf96988199c3ae9353f9",
+      "size": 390755
+    }
+  ]
+}
