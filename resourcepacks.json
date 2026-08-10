@@ -1,0 +1,78 @@
+{
+  "version": 1,
+  "_comment": "上传到 https://yingzhengxun.github.io/mods/resourcepacks.json。sha256 为小写十六进制 SHA-256。extract=true 的资源包下载后会解压为同名文件夹。",
+  "resourcePacks": [
+    {
+      "name": "闰杭地铁站内导视",
+      "fileName": "闰杭地铁站内导视.zip",
+      "url": "https://www.qmpan.com/f/1LeJCp/%E9%97%B0%E6%9D%AD%E5%9C%B0%E9%93%81%E7%AB%99%E5%86%85%E5%AF%BC%E8%A7%86.zip",
+      "sha256": "d701193158a2d016877b1cfa36ed62bb51b734f15f5e00d829725ce03a0be044",
+      "size": 37538827,
+      "extract": false
+    },
+    {
+      "name": "Midnighttiggers NT CG FCT Default 1.17 V6",
+      "fileName": "Midnighttiggers-NT_CG-FCT-Default_1.17_V6.zip",
+      "url": "https://www.qmpan.com/f/EkdRF3/Midnighttiggers-NT_CG-FCT-Default_1.17_V6.zip",
+      "sha256": "3888d9c90ba3f9d42f9e7885253631423f007cc309528ee5c10121cc1062a06d",
+      "size": 20983,
+      "extract": false
+    },
+    {
+      "name": "Transparent GUI",
+      "fileName": "Transparent GUI.zip",
+      "url": "https://www.qmpan.com/f/ZG4nFJ/Transparent%20GUI.zip",
+      "sha256": "dfcba39c1be4b9223733f38fbff6c448161a676fdf4cefc2d9f736bcf3ab15b1",
+      "size": 4574681,
+      "extract": false
+    },
+    {
+      "name": "Yuushya Foliage Addon 1.3",
+      "fileName": "Yuushya Foliage Addon 1.3.zip",
+      "url": "https://www.qmpan.com/f/lXO5Ha/Yuushya%20Foliage%20Addon%201.3.zip",
+      "sha256": "0a612f147a560acafe029307a4428193e8da39d1ef7414c7f96194ec1d3fbfac",
+      "size": 35229,
+      "extract": false
+    },
+    {
+      "name": "杭州地铁追加包 V2.0-Prerelease",
+      "fileName": "杭州地铁追加包 V2.0-Prerelease.zip",
+      "url": "https://www.qmpan.com/f/6pZohD/%E6%9D%AD%E5%B7%9E%E5%9C%B0%E9%93%81%E8%BF%BD%E5%8A%A0%E5%8C%85%20V2.0-Prerelease.zip",
+      "sha256": "befee6a7377316298682fe6fab7ea81ea49a469309cfd6958092f06af5313ec2",
+      "size": 17781506,
+      "extract": false
+    },
+    {
+      "name": "CozyUI+ v1.10 no-fonts",
+      "fileName": "§cCozyUI§b+ §7v1.10§c no-fonts §0.zip",
+      "url": "https://www.qmpan.com/f/oR8zI5/%C2%A7cCozyUI%C2%A7b+%20%C2%A77v1.10%C2%A7c%20no-fonts%20%C2%A70.zip",
+      "sha256": "e6d27304ce33bd7cefbea327b6db930bc4fa1741bd21823cc9341e201d45fe57",
+      "size": 15138127,
+      "extract": false
+    },
+    {
+      "name": "演示所用轨道包",
+      "fileName": "演示所用轨道包.zip",
+      "url": "https://www.qmpan.com/f/XB7mhZ/%E6%BC%94%E7%A4%BA%E6%89%80%E7%94%A8%E8%BD%A8%E9%81%93%E5%8C%85.zip",
+      "sha256": "8ea96a6b194088423b80d27de647669204001379cdcb8ea32babf092946abe78",
+      "size": 3123894,
+      "extract": false
+    },
+    {
+      "name": "闰杭追加0.2",
+      "fileName": "闰杭追加0.2 (2).zip",
+      "url": "https://www.qmpan.com/f/rq2JTD/%E9%97%B0%E6%9D%AD%E8%BF%BD%E5%8A%A00.2%20%282%29.zip",
+      "sha256": "9fcc2ef419de840c742c89d49fdb606f6b46338a45ce6c1effaed56eb50a74e3",
+      "size": 35778220,
+      "extract": false
+    },
+    {
+      "name": "闰杭地铁1号线音频",
+      "fileName": "闰杭地铁1号线音频.zip",
+      "url": "https://www.qmpan.com/f/7LlQUj/%E9%97%B0%E6%9D%AD%E5%9C%B0%E9%93%811%E5%8F%B7%E7%BA%BF%E9%9F%B3%E9%A2%91.zip",
+      "sha256": "0a893017719de26eea887945529c4a7a5267cee54ad28cbc9b1e97221d7d483f",
+      "size": 1405792,
+      "extract": true
+    }
+  ]
+}
