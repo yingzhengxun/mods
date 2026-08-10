@@ -1,0 +1,166 @@
+{
+    "version":  1,
+    "mods":  [
+                 {
+                     "name":  "3D 皮肤层",
+                     "fileName":  "[3D 皮肤层] skinlayers3d-fabric-1.11.2-mc1.20.1.jar",
+                     "url":  "https://www.qmpan.com/f/lXOBfa/%5B3D%20%E7%9A%AE%E8%82%A4%E5%B1%82%5D%20skinlayers3d-fabric-1.11.2-mc1.20.1.jar",
+                     "sha256":  "9f76e7018eca0a20bb6c4f269d7192e14beba375f7fb9064425804d6fbdaab96",
+                     "size":  1988537
+                 },
+                 {
+                     "name":  "Forge 加载屏幕移植",
+                     "fileName":  "[Forge 加载屏幕移植] early-loading-screen-0.8.5.jar",
+                     "url":  "https://www.qmpan.com/f/oR8rI5/%5BForge%20%E5%8A%A0%E8%BD%BD%E5%B1%8F%E5%B9%95%E7%A7%BB%E6%A4%8D%5D%20early-loading-screen-0.8.5.jar",
+                     "sha256":  "8b688978ee27f9dbac0cd619a202d59638e8aa821b45d00ddecb9ecbb323bd39",
+                     "size":  1970733
+                 },
+                 {
+                     "name":  "Lambd的动态光源",
+                     "fileName":  "[Lambd的动态光源] lambdynamiclights-4.4.0+1.20.1.jar",
+                     "url":  "https://www.qmpan.com/f/a1yDhb/%5BLambd%E7%9A%84%E5%8A%A8%E6%80%81%E5%85%89%E6%BA%90%5D%20lambdynamiclights-4.4.0+1.20.1.jar",
+                     "sha256":  "074d6c79e002790b696ebcfdd4ff2a2d57ec55228f93b47e952eeebd5baf5301",
+                     "size":  1114373
+                 },
+                 {
+                     "name":  "Reese的钠视频界面",
+                     "fileName":  "[Reese的钠视频界面] reeses_sodium_options-1.7.2+mc1.20.1-build.101.jar",
+                     "url":  "https://www.qmpan.com/f/PAaduK/%5BReese%E7%9A%84%E9%92%A0%E8%A7%86%E9%A2%91%E7%95%8C%E9%9D%A2%5D%20reeses_sodium_options-1.7.2+mc1.20.1-build.101.jar",
+                     "sha256":  "627b6b90e30d18de49dd8960afd5c8b530cf2c6f21b248d14a848d1023ff0bec",
+                     "size":  77304
+                 },
+                 {
+                     "name":  "WI变焦",
+                     "fileName":  "[WI变焦] WI-Zoom-1.6-MC1.20.1.jar",
+                     "url":  "https://www.qmpan.com/f/6pZKTD/%5BWI%E5%8F%98%E7%84%A6%5D%20WI-Zoom-1.6-MC1.20.1.jar",
+                     "sha256":  "989d5653dfec7a1b355d62ceb2fb7c6c2ce5b6a912934f6b8c891c7d3d270d59",
+                     "size":  155225
+                 },
+                 {
+                     "name":  "Xaero的世界地图",
+                     "fileName":  "[Xaero的世界地图] xaeroworldmap-fabric-1.20.1-1.44.2.jar",
+                     "url":  "https://www.qmpan.com/f/pj7mU5/%5BXaero%E7%9A%84%E4%B8%96%E7%95%8C%E5%9C%B0%E5%9B%BE%5D%20xaeroworldmap-fabric-1.20.1-1.44.2.jar",
+                     "sha256":  "281a435d39500c50854fbf0999f84b081288e194ec75aa4cdf8772cfb5f8ccec",
+                     "size":  1443854
+                 },
+                 {
+                     "name":  "Xaero的小地图",
+                     "fileName":  "[Xaero的小地图] xaerominimap-fabric-1.20.1-26.4.2.jar",
+                     "url":  "https://www.qmpan.com/f/n3XaTD/%5BXaero%E7%9A%84%E5%B0%8F%E5%9C%B0%E5%9B%BE%5D%20xaerominimap-fabric-1.20.1-26.4.2.jar",
+                     "sha256":  "a0b73b92d45e95e6031a4a002c6edd6c67b98a56a576066603679d6a98042b65",
+                     "size":  2228035
+                 },
+                 {
+                     "name":  "方块实体优化",
+                     "fileName":  "[方块实体优化] enhancedblockentities-0.9+1.20.jar",
+                     "url":  "https://www.qmpan.com/f/5Gb3HP/%5B%E6%96%B9%E5%9D%97%E5%AE%9E%E4%BD%93%E4%BC%98%E5%8C%96%5D%20enhancedblockentities-0.9+1.20.jar",
+                     "sha256":  "1c4ce2c00d8cc6d2269de3cadaba551607c62692a8e5ad1d7c618462ed7ed05b",
+                     "size":  490690
+                 },
+                 {
+                     "name":  "高清截图Fabric",
+                     "fileName":  "[高清截图Fabric] fabrishot-1.10.1.jar",
+                     "url":  "https://www.qmpan.com/f/kDgBH3/%5B%E9%AB%98%E6%B8%85%E6%88%AA%E5%9B%BEFabric%5D%20fabrishot-1.10.1.jar",
+                     "sha256":  "60d4f0b0351d3d663c80127d3123546953f1de3255c2f59c458bc278617b1b6b",
+                     "size":  46663
+                 },
+                 {
+                     "name":  "更多聊天记录",
+                     "fileName":  "[更多聊天记录] morechathistory-1.3.0.jar",
+                     "url":  "https://www.qmpan.com/f/2lBkTn/%5B%E6%9B%B4%E5%A4%9A%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%5D%20morechathistory-1.3.0.jar",
+                     "sha256":  "87dd00a8b62b10bed3bb201d5aaf220fd72a6d77ef284c1fc65ddb5e262d4c8c",
+                     "size":  3546
+                 },
+                 {
+                     "name":  "聊天动画",
+                     "fileName":  "[聊天动画] chatanimation-fabric-1.3.0+mc1.20.1.jar",
+                     "url":  "https://www.qmpan.com/f/0lbRte/%5B%E8%81%8A%E5%A4%A9%E5%8A%A8%E7%94%BB%5D%20chatanimation-fabric-1.3.0+mc1.20.1.jar",
+                     "sha256":  "6531104cb00821dae8e759f3dd027a7c106e8f6157ebcac659f272bea97d1b04",
+                     "size":  397741
+                 },
+                 {
+                     "name":  "聊天头像",
+                     "fileName":  "[聊天头像] chat_heads-0.15.4-fabric-1.20.jar",
+                     "url":  "https://www.qmpan.com/f/bwywu0/%5B%E8%81%8A%E5%A4%A9%E5%A4%B4%E5%83%8F%5D%20chat_heads-0.15.4-fabric-1.20.jar",
+                     "sha256":  "b4afb8da74f35a4c47ce48707775025f0d1b715d3da94aa08bebd372c5a7c1c2",
+                     "size":  84598
+                 },
+                 {
+                     "name":  "模组菜单",
+                     "fileName":  "[模组菜单] modmenu-7.2.2.jar",
+                     "url":  "https://www.qmpan.com/f/Jw1jUD/%5B%E6%A8%A1%E7%BB%84%E8%8F%9C%E5%8D%95%5D%20modmenu-7.2.2.jar",
+                     "sha256":  "a041b0f0305ffa5eb90120aa23768e1cfbb27583904b1751e3783c0f69382f1a",
+                     "size":  721366
+                 },
+                 {
+                     "name":  "钠 · 扩展",
+                     "fileName":  "[钠 · 扩展] sodium-extra-0.5.9+mc1.20.1.jar",
+                     "url":  "https://www.qmpan.com/f/zLa1Um/%5B%E9%92%A0%20%C2%B7%20%E6%89%A9%E5%B1%95%5D%20sodium-extra-0.5.9+mc1.20.1.jar",
+                     "sha256":  "5cae656838b595e27d5133264374e5d90f5f35a39e343bfc5a76b908fec97c9f",
+                     "size":  370701
+                 },
+                 {
+                     "name":  "钠",
+                     "fileName":  "[钠] sodium-fabric-0.5.13+mc1.20.1.jar",
+                     "url":  "https://www.qmpan.com/f/w4lQHQ/%5B%E9%92%A0%5D%20sodium-fabric-0.5.13+mc1.20.1.jar",
+                     "sha256":  "688c26029ce69f0b1f7cf936866656ca6723228ac46c4aef5b5f793b1e6abd22",
+                     "size":  971552
+                 },
+                 {
+                     "name":  "输入法冲突修复",
+                     "fileName":  "[输入法冲突修复] IMBlocker-5.5.4-fabric+1.17-1.21.8.jar",
+                     "url":  "https://www.qmpan.com/f/VwAlTG/%5B%E8%BE%93%E5%85%A5%E6%B3%95%E5%86%B2%E7%AA%81%E4%BF%AE%E5%A4%8D%5D%20IMBlocker-5.5.4-fabric+1.17-1.21.8.jar",
+                     "sha256":  "2d06de92ac453b3fac08a446cd609dc1cf72b39bd4f79f1bed0abd6f9dbf33c8",
+                     "size":  200220
+                 },
+                 {
+                     "name":  "鼠标手势",
+                     "fileName":  "[鼠标手势] MouseTweaks-fabric-mc1.20-2.26.jar",
+                     "url":  "https://www.qmpan.com/f/y4oat8/%5B%E9%BC%A0%E6%A0%87%E6%89%8B%E5%8A%BF%5D%20MouseTweaks-fabric-mc1.20-2.26.jar",
+                     "sha256":  "1eb9f0c7878598a3a7dfb52cd0e8159ebf8b33b04e6df232534fed2fbb6616e4",
+                     "size":  77943
+                 },
+                 {
+                     "name":  "铁氧体磁芯",
+                     "fileName":  "[铁氧体磁芯] ferritecore-6.0.1-fabric.jar",
+                     "url":  "https://www.qmpan.com/f/OzoKib/%5B%E9%93%81%E6%B0%A7%E4%BD%93%E7%A3%81%E8%8A%AF%5D%20ferritecore-6.0.1-fabric.jar",
+                     "sha256":  "c7ba1118a05b2da900d1c369fbe1017a3e3ec3cafe5e51398b851279b9becf24",
+                     "size":  125197
+                 },
+                 {
+                     "name":  "现代化 UI",
+                     "fileName":  "[现代化 UI] ModernUI-Fabric-1.20.1-3.12.0.1-universal.jar",
+                     "url":  "https://www.qmpan.com/f/94bkuK/%5B%E7%8E%B0%E4%BB%A3%E5%8C%96%20UI%5D%20ModernUI-Fabric-1.20.1-3.12.0.1-universal.jar",
+                     "sha256":  "872917f411358672706e34eff73440ddc123f948c20f0ad4a724e0c877edd6c4",
+                     "size":  24987755
+                 },
+                 {
+                     "name":  "现代化修复",
+                     "fileName":  "[现代化修复] modernfix-fabric-5.25.2+mc1.20.1.jar",
+                     "url":  "https://www.qmpan.com/f/Np6qUA/%5B%E7%8E%B0%E4%BB%A3%E5%8C%96%E4%BF%AE%E5%A4%8D%5D%20modernfix-fabric-5.25.2+mc1.20.1.jar",
+                     "sha256":  "5c1f852046e62a17056bb6b571164e61644076c5eb9029c92b31e337cc62c0d9",
+                     "size":  545175
+                 },
+                 {
+                     "name":  "星光",
+                     "fileName":  "[星光] starlight-1.1.2+fabric.dbc156f.jar",
+                     "url":  "https://www.qmpan.com/f/BoqPHL/%5B%E6%98%9F%E5%85%89%5D%20starlight-1.1.2+fabric.dbc156f.jar",
+                     "sha256":  "2b4bb0256279b9edeec050ea02751119e4a7c6933a2b0d2905a72c56b14882d8",
+                     "size":  127368
+                 },
+                 {
+                     "name":  "铟",
+                     "fileName":  "[铟] indium-1.0.36+mc1.20.1.jar",
+                     "url":  "https://www.qmpan.com/f/8emLCr/%5B%E9%93%9F%5D%20indium-1.0.36+mc1.20.1.jar",
+                     "sha256":  "8434d0abc8826e2540c26741fea45a1ab9d48f650746de282b36850fa1d01999",
+                     "size":  105382
+                 },
+                 {
+                     "name":  "Iris 光影",
+                     "fileName":  "iris-1.7.6+mc1.20.1.jar",
+                     "url":  "https://www.qmpan.com/f/Q4P3ca/iris-1.7.6+mc1.20.1.jar",
+                     "sha256":  "9eb15e563e0c9ae6eff15b7863f8432dd290cf9f724c7373e9b15b14aa829ed5",
+                     "size":  2726899
+                 }
+             ]
+}
