@@ -65,13 +65,6 @@
                      "size":  8237683
                  },
                  {
-                     "name":  "fabric-api-0.92.11+1.20.1",
-                     "fileName":  "fabric-api-0.92.11+1.20.1.jar",
-                     "url":  "https://www.qmpan.com/f/8e0Dfr/fabric-api-0.92.11+1.20.1.jar",
-                     "sha256":  "3278787c04ad636525b5c3400dff8302420f79279f6d51ce3edc0149060d12eb",
-                     "size":  2137144
-                 },
-                 {
                      "name":  "fabric-language-kotlin-1.13.13+kotlin.2.4.10",
                      "fileName":  "fabric-language-kotlin-1.13.13+kotlin.2.4.10.jar",
                      "url":  "https://www.qmpan.com/f/Q43kta/fabric-language-kotlin-1.13.13+kotlin.2.4.10.jar",
